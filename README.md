@@ -1,3 +1,5 @@
+
+
 # Requests
 
 **Requests** is a simple, yet elegant, HTTP library.
@@ -75,4 +77,13 @@ git config --global fetch.fsck.badTimezone ignore
 
 ---
 
-[![Kenneth Reitz](https://raw.githubusercontent.com/psf/requests/main/ext/kr.png)](https://kennethreitz.org) [![Python Software Foundation](https://raw.githubusercontent.com/psf/requests/main/ext/psf.png)](https://www.python.org/psf)
+
+
+
+[![Kenneth Reitz](https://raw.githubusercontent.com/psf/requests/main/ext/kr.png)](https://kennethreitz.org)
+
+
+
+
+
+[![Python Software Foundation](https://raw.githubusercontent.com/psf/requests/main/ext/psf.png)](https://www.python.org/psf)
